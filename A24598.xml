@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian charity to poor prisoners, especially those for debt communicated in a letter by a gentleman to a poor prisoner, his friend in prison in London, June 1694.</title>
+            <author>P. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24598</idno>
+            <idno type="STC">Wing A22</idno>
+            <idno type="STC">ESTC R4517</idno>
+            <idno type="EEBO-CITATION">13681495</idno>
+            <idno type="OCLC">ocm 13681495</idno>
+            <idno type="VID">101293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 830:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian charity to poor prisoners, especially those for debt communicated in a letter by a gentleman to a poor prisoner, his friend in prison in London, June 1694.</title>
+                  <author>P. A.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Eliz. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 16: P.A.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101293:1" rendition="simple:additions"/>
+            <p>
+               <hi>Chriſtian Charity</hi> TO Poor Priſoners, eſpecially thoſe for DEBT, Communicated in a Letter, by a Gen<g ref="char:EOLhyphen"/>tleman to a Poor Priſoner, his Friend in Priſon in <hi>London, June</hi> 1694.</p>
+            <q>
+               <bibl>
+                  <hi>Matth. 25.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.</hi>
+               </bibl>—I was in Priſon, and ye came unto me.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Eliz. Whitlock</hi> near <hi>Stationers-Hall.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101293:2" rendition="simple:additions"/>
+            <head>
+               <hi>Chriſtian Charity to Poor Priſoners, eſpe<g ref="char:EOLhyphen"/>cially thoſe for Debt, communicated in a Letter, by a Gentleman to a Poor Priſoner, his Friend in Priſon in</hi> London June 1694.</head>
+            <p>CAptivity and Impriſonment cannot (as I humbly conceive) but be ac<g ref="char:EOLhyphen"/>counted in Reaſon, in the number of the greateſt and ſoreſt Evils of this Life to Mankind, therefore not unfitly repreſented in thoſe two Verſes following, which I have long ſince met with.</p>
+            <q>
+               <l>A Priſon is a Houſe of Care, a Place where few can thrive,</l>
+               <l>A Touchſtone for to try a Friend, a Grave to Men alive.</l>
+            </q>
+            <p>For Man doubtleſs is a vigorous active Be<g ref="char:EOLhyphen"/>ing, Created for Action and Buſineſs, for So<g ref="char:EOLhyphen"/>ciety and Converſation, yea, to have enter<g ref="char:EOLhyphen"/>courſe even with the whole World; and this is no wonder, conſidering with <hi>Seneca</hi> their Divine Original; therefore thoſe Reſtraints which a Priſon puts upon Men's natural ap<g ref="char:EOLhyphen"/>petites and deſires in thoſe outward Con<g ref="char:EOLhyphen"/>cerns of the World, muſt needs be appre<g ref="char:EOLhyphen"/>hended by Man, as a very great Evil and
+<pb n="3" facs="tcp:101293:2"/>Affliction, and in truth very burthenſome to Mankind.</p>
+            <p>Now to be Inſtrumental ſomewhat to al<g ref="char:EOLhyphen"/>leviate this weighty Affliction of a Priſon, and to make it (if not eaſie) yet portable and comfortable, in ſome meaſure, but further alſo very advantagious and beneficial to the Poor Sufferers, eſpecially, as to the Improve<g ref="char:EOLhyphen"/>ment of their Minds, and conducive to their Eternal Welfare in the other World, as it is the main end of this intended Diſcourſe; ſo it will (I humbly conceive) be no con<g ref="char:EOLhyphen"/>temptible piece of Charity, and what God may accept from him, who is not in a Ca<g ref="char:EOLhyphen"/>pacity for the other external Charities to the Body, and therefore hopes it may find a fa<g ref="char:EOLhyphen"/>vourable reception with God, and with all honeſt and ingenuous Minds.</p>
+            <p>It is moſt true what the Scripture ſpeaks, <hi>Heb.</hi> 12.11. That no Affliction or Chaſtiſe<g ref="char:EOLhyphen"/>ment for the preſent ſeems joyous but grie<g ref="char:EOLhyphen"/>vous, but yet afterwards yieldeth the peace<g ref="char:EOLhyphen"/>able fruits of Righteouſneſs, to them that ſhall be exerciſed thereby, that is (as I humbly conceive) who ſhall be ſo affected with their ſufferings as to cauſe them to break off their Sins by true Repentance, and to ſee to the well regulating of their Lives; when they can ſay with good <hi>David, Pſal.</hi> 119.67. <hi>Be<g ref="char:EOLhyphen"/>fore I was afflicted I went aſtray, but now I
+<pb n="4" facs="tcp:101293:3"/>have kept thy word,</hi> and verſ. 71. <hi>It is a good thing that I have been afflicted, that I might learn thy ſtatutes,</hi> and verſ. 75. <hi>I know O Lord that thy judgments are right, and that thou in faithfulneſs haſt afflicted me:</hi> For then we may ſay truly, O bleſſed Priſon! the ſhackling and fettering of the Body; when it becomes a means of the freedom and en<g ref="char:EOLhyphen"/>largement of the Soul and Mind, and to be thereby freed from the greateſt Captivity and Slavery in the World, the Drudgery and Bondage of Sin and Satan; making us become the Servants of God, the Favorites of Heaven. This Bleſſing would make you to be free Priſoners indeed, and give you cauſe to rejoice and triumph in your ſuffe<g ref="char:EOLhyphen"/>rings, and ſay, O bleſſed Priſon and Con<g ref="char:EOLhyphen"/>finement! which cauſed me to conſider of my ways, and to become ſerious and wiſe, to think of God, and to conſider my ſelf, and to make my Peace with Heaven, and to make it my buſineſs to ſtore my Soul with Grace and Vertue, to capacitate me thereby for Eternal Happineſs hereafter; for (as a late worthy Author diſcourſeth) ſince Man was Created for a ſupernatural and divine end; ſo the Life which diſpoſeth to that end is divine and ſupernatural, according to that Maxim in Philoſophy, that the end
+<pb n="5" facs="tcp:101293:3"/>and the means ought to be proportioned, and of one and the ſame order.</p>
+            <p>And now may I not ſay? that none but a Fool or a Mad-man, but would deſire that his Afflictions and Impriſonment might be thus bleſſed to him, and made thus advan<g ref="char:EOLhyphen"/>tagious for his Eternal Welfare? (even a greater advantage than <hi>Joſeph</hi> had from his Impriſonment in <hi>Egypt.</hi>) To the promoting of which great end, may I preſent to your view thoſe great benefits and advantage you may make by your Confinement to a Pri<g ref="char:EOLhyphen"/>ſon?</p>
+            <p>As firſt, your Impriſonment hath freed you from many Temptations, that uſually at<g ref="char:EOLhyphen"/>tended you in your Trade and worldly Em<g ref="char:EOLhyphen"/>ployments; for as <hi>Solomon</hi> tells us, <hi>Eccleſiaſt.</hi> 27.2. <hi>As a nail ſticks faſt between the joyn<g ref="char:EOLhyphen"/>ing of the Stones, ſo doth ſin ſtick cloſe between buying and ſelling.</hi>
+            </p>
+            <p n="2">2. You are in a preſent afflicted and ſuf<g ref="char:EOLhyphen"/>fering Condition, and it is uſually obſerved, that the eye that ſin ſhuts, pain opens; for if ever Men will be ſerious and conſider, and be wiſe, it muſt be under ſufferings. And this in truth is God's end in ſending them, as the before-mentioned Scriptures, with many others teſtifie. That Holy Fa<g ref="char:EOLhyphen"/>ther St. <hi>Auſtin</hi> therefore ſays of himſelf; <hi>Pe<g ref="char:EOLhyphen"/>riiſſem
+<pb n="6" facs="tcp:101293:4"/>niſi periiſſem (i.e.)</hi> I had periſhed and been undone for ever, had I not been ſore<g ref="char:EOLhyphen"/>ly afflicted in this Life; for as another ſpeaks, <hi>Afflictio domat cupiditates, ex erat fi<g ref="char:EOLhyphen"/>dem, Coronat patientiam (i. e.)</hi> Affliction tames and ſubdues our luſts and vices, quic<g ref="char:EOLhyphen"/>keneth and exerciſeth our Faith and Truſt in God, and Crowns our Patience.</p>
+            <p n="3">3. By your Impriſonment, you have the great advantage of Time and Leaſure for conſideration, reading, meditating, and performing your private Devotions, which in the midſt of the incumbrances of the World in your ſecular Employments and Trading here in this Life you could not en<g ref="char:EOLhyphen"/>joy, for as the Son of <hi>Syrach</hi> ſpeaks, <hi>Eccluſ.</hi> 38.24. <hi>The wiſdom of a learned Man cometh by opportunity of leaſure, and he that hath little buſineſs ſhall become wiſe.</hi> Now conſider theſe advantages you have from your Priſon, and make theſe wiſe uſes of them: More eſpecially make uſe of your time and leaſure <hi>in ſearching after Wiſdom as after hid Treaſure</hi> (as <hi>Solomon</hi> adviſeth, <hi>Prov.</hi> 2.4. For indeed the Cauſe of all wickedneſs in the world ariſeth from want of conſideration; men will not be brought to it. It is obſerved by our Divines, that inconſiderate Men are wicked Men;
+<pb n="7" facs="tcp:101293:4"/>therefore let your Afflictions make you ſeri<g ref="char:EOLhyphen"/>ous, wiſe, conſiderate; and let your Sufferings bring you Home, as they did the Prodi<g ref="char:EOLhyphen"/>gal Son to his Fathers Houſe. Labour to improve your mind in neceſſary knowledge and in virtue, and now ply your Devo<g ref="char:EOLhyphen"/>tions; the Throne of Grace in Heaven ſtands open to you, although you are ne<g ref="char:EOLhyphen"/>ver ſo cloſe a Priſoner, and you may reſt aſſured, if your Prayers are qualified as they ought to be, and come from an ho<g ref="char:EOLhyphen"/>neſt and upright heart, you will receive rich returns from Heaven; for as <hi>Porphery</hi> a wiſe Heathen ſpeaks, <hi>viz.</hi> all wiſe Men in all Nations—have been very diligent and frequent in Prayer. And as St. <hi>James</hi> ad<g ref="char:EOLhyphen"/>viſeth us, <hi>James</hi> Chap. 5. verſ. 13. <hi>Is any man afflicted let him pray,</hi> &amp;c. And you may there ſay, as that honeſt Heathen in <hi>Plutarch Hermogenes</hi> did, that the Gods which knew all things, and can do all things, are ſo much my Friends, and ſo highly concerned for my Welfare, that I am never a Night or Day out of their watchful Providence, but whatever I do, I have their aſſiſtance, and whatever I de<g ref="char:EOLhyphen"/>ſign, their direction. And then what fur<g ref="char:EOLhyphen"/>ther cauſe will you have to bear your ſuf<g ref="char:EOLhyphen"/>ferings with patience, and ſay with the
+<pb n="8" facs="tcp:101293:5"/>Philoſopher <hi>Epictetus?</hi> In theſe things which ſeem hard and grievous to me, I do (ſaith he) thus diſpoſe my ſelf; I conſider they come from God, and I do endeavour not merely to ſubmit but to aſſent to him in his dealing; not only out of neceſſity, but out of choice. Let not a Man take upon him (ſaith he) to reprehend Providence, 'tis beſt for a Man to bear what he cannot amend, and to follow God (by whom all events are diſpoſed) without murmuring. Let us (ſaith he) beſpeak God as <hi>Cleanthes</hi> did; let the great Governour of the World lead me into what condition he pleaſeth, I am moſt ready to follow him, though it be ſighing, and ſuffer that as an evil wretch<g ref="char:EOLhyphen"/>ed Man, which I ought to bear as a good Man, with patience and ſubmiſſion. Thus you may, I think by your virtuous con<g ref="char:EOLhyphen"/>verſation, make your Priſon a place of com<g ref="char:EOLhyphen"/>fort, yea of rejoycing; as it is ſaid the Phi<g ref="char:EOLhyphen"/>loſopher did in his homely Cottage, who ſaid that the Gods, the Heavenly Spirits were there with him. And a truly good Man will be eaſie and chearful under ſuffe<g ref="char:EOLhyphen"/>rings, for he in truth hath always great Reaſon to be ſo (as honeſt <hi>Socrates</hi> is ſaid to be) for Holy <hi>David</hi> exhorts and encou<g ref="char:EOLhyphen"/>rageth him to it, <hi>Pſal.</hi> 33.1. <hi>To rejoyce in
+<pb n="9" facs="tcp:101293:5"/>the Lord.</hi> And St. <hi>Paul</hi> alſo, 1 <hi>Theſſ.</hi> 5.16. <hi>Rejoice evermore.</hi> And indeed a vertuous and good Man, hath more Feſtivals and Holy-days, then any others whatſoever; for it is only ſin that in truth interrupteth our Peace, and ſpoils the Harmony of the Soul. Make (in your Priſon) therefore your Peace with God, ſet your Accounts even between him and your Soul, and thereby get that Peace of a good Conſcience, which paſſeth all underſtanding; which made <hi>Paul</hi> and <hi>Silas</hi> to ſing at Midnight, when their feet were in the Stocks and in Priſon. And that bleſſed melody in ſinging Holy <hi>David</hi>'s Pſalms, would far better become Priſons, than to hear among Priſoners that Language of Hell, Swearing and Curſing, profane Singing and Roaring, that daily Muſick of our Priſons. It is far more rea<g ref="char:EOLhyphen"/>ſonable and fit to make that wiſe uſe of your worldly loſſes which that Merchant of <hi>Athens</hi> is ſaid to do, who when the News was brought to him of the loſs of his Eſtate at Sea, made this good Concluſion from it, <hi>viz.</hi> That now Providence he ſaw would have him turn Philoſopher, ſo let your outward loſs of your Eſtate be made up by you in vertue and goodneſs, thoſe greater, better, and ſurer Riches which you
+<pb n="10" facs="tcp:101293:6"/>can never looſe without you will your ſelf.</p>
+            <p>And thus I hope I may eaſily perſwade you to avoid the ſecuring two Priſons to your ſelves, two Hells and States of ſuffering, one here in this Life, and the other hereaf<g ref="char:EOLhyphen"/>ter, having with <hi>Lazarus</hi> your evil things, and a State of ſuffering in this Life; it ve<g ref="char:EOLhyphen"/>ry much concerns you to ſecure to your ſelf a future happy State in the other World. And may I not ſay truly, that in ſeveral reſpects, our Priſons have ſomewhat a reſemblance of Hell? by reaſon of Debau<g ref="char:EOLhyphen"/>chery, Profaneneſs, and Wickedneſs there practiſed daily by the Priſoners, as Quarrel<g ref="char:EOLhyphen"/>lings and Conteſts, Swearing and Blaſphe<g ref="char:EOLhyphen"/>ming, but alſo their own Conſcienees alſo tormenting them (if their Keepers are ſo good natured as not to play the Devil with them by cruel and hard uſage ſometimes alſo) for certainly, many of them muſt needs have (without true Repentance) an uncomfortable, yea diſmal proſpect of their ill-ſpent lives, their folly, or frenſie, either careleſly, or prodigally, ſpending their Eſtates, and ruining themſelves and their Families, their Fraud, Oppreſſion, and Injuſtice in their former trading and dealing in the World, with the many ſufferers occaſioned by them, and their unability to make ſatisfaction to
+<pb n="11" facs="tcp:101293:6"/>thoſe they have ſo wronged; the Reflection upon which (with their preſent Sufferings and Wants) muſt needs I ſay (without a hearty Repentance) be like ſo many Devils continually tormenting them.</p>
+            <p>And now may I further here Caution you againſt theſe two Diſadvantages, or rather Temptations that you have attending your Condition. The firſt is that of bad Company, a Place where it may be ſaid, Men like Birds pent up in a narrow and ſtreight Cage, de<g ref="char:EOLhyphen"/>file one another by their bad Converſations. As to wicked Company, one therefore gives us this advice; to avoid them as you would avoid the Plague, as alſo further ſaith truly of them, they are ſo dangerous, even as a mad Dog, a Viper ready to burſt with poy<g ref="char:EOLhyphen"/>ſon, therefore be ſure to avoid them as you love your Souls. The next I caution you a<g ref="char:EOLhyphen"/>gainſt, is the temptation of Idleneſs, and want of Imployment and Buſineſs (which you are in ſome meaſure as it were forced upon) which (as a great Divine hath told us) doth even tempt the Devil to tempt us, and faſten his ſuggeſtions upon us; which made St. <hi>Hierom</hi> give this advice, <hi>ſemper bo<g ref="char:EOLhyphen"/>ni aliquid operis facito, ut Diabolus te ſemper inveniat occupatum. (i.e.)</hi> Always be doing ſomething that is good, that the Devil ne<g ref="char:EOLhyphen"/>ver
+<pb n="12" facs="tcp:101293:7"/>find thee idle. Therefore if you have no way of employing your ſelves in your Trades and Callings, you may probably find opportunities of employing your ſelves in performing friendly Offices to your Fellow Priſoners, who may ſtand in need of your help and aſſiſtance; as alſo there is honeſt and lawful Recreation and Diverſion which Religion alloweth to us; but (as one well ſaith) he hath no ſuch Reaſon to complain of his want of employment, who hath a Soul and Mind to adorn with Knowledge, Virtue, and Religion; and a Soul to ſave from Eternal Miſery and Ruin.</p>
+            <p>In the laſt place let me propoſe to you, that advice a worthy Divine hath given us. That is (ſaith he) as much as a Man is able, to keep up and maintain a conſtant chearful<g ref="char:EOLhyphen"/>neſs of Spirit and lightſomeneſs of heart, for (as he ſaith) the heavineſs of the mind (as one of the Ancients is ſaid to expreſs it) is the worm of the mind, which eateth up his Parent that brought it forth; and he fur<g ref="char:EOLhyphen"/>ther telleth us, that chearfulneſs cauſeth the Soul to dwell in a wholeſome and ſweet in<g ref="char:EOLhyphen"/>cloſure; it enlightens the mind, it encou<g ref="char:EOLhyphen"/>rages the heart, it adds Wings to the Affe<g ref="char:EOLhyphen"/>ctions; therefore he that forbids it to our Souls, keeps out the welcomeſt Gueſt, and
+<pb n="13" facs="tcp:101293:7"/>the beſt Friend that nature hath; this chear<g ref="char:EOLhyphen"/>fulneſs (ſaith he) exceedingly becomes good Souls. Avoid (ſaith he) ſadneſs under the noti<g ref="char:EOLhyphen"/>on of ſeriouſneſs. In ſhort (ſaith <hi>Seneca</hi>) it is a Maſter-piece of skill to draw good out of evil, and by the help of Virtue, to improve Miſ<g ref="char:EOLhyphen"/>fortunes into Bleſſings. It is the mind of Man that makes him rich (ſaith he) in a Deſert or Priſon, <hi>&amp;c.</hi> And he concludes thus, all I deſire is, that my Poverty may not be a burthen to my ſelf, or make me ſo to others.</p>
+            <p>This ſhort Eſſay, I have made towards your relief and help, under your ſufferings, which I hope may find acceptance with you, it being only to perſwade you to make your Afflictions medicinable, as to the improve<g ref="char:EOLhyphen"/>ment of your Mind and the Eternal welfare of your Souls, which doubtleſs is your great Intereſt and Concern, as alſo to direct you to a chearful comporting with your preſent Condition of ſuffering. And if I may be any ways inſtrumental herein, in any kind, to the benefit or advantage (if but of one poor Priſoner) I ſhall not repent my pains herein, but account it a ſufficient recompence, and give God the praiſe; without whoſe Bleſ<g ref="char:EOLhyphen"/>ſing our endeavours ſignifie little. And to all I have ſaid may I add my hearty Prayers
+<pb n="14" facs="tcp:101293:8"/>for you all, that God would make uſeful and beneficial to you, your preſent ſtate of ſuf<g ref="char:EOLhyphen"/>fering and affliction; more eſpecially for your Eternal Welfare. And alſo that God would open the hearts of your Creditors, to deal Mercifully with you, and that the hearts of the Rich might be enlarged, to communicate to your neceſſities. And may I further recommend to your uſe, the fol<g ref="char:EOLhyphen"/>lowing excellent Prayer, compos'd hereto<g ref="char:EOLhyphen"/>fore, by the Reverend Dr. <hi>Patrick,</hi> Dean of <hi>Peterborough,</hi> in his Book call'd the de<g ref="char:EOLhyphen"/>vout Chriſtian publiſhed to the World, <hi>Anno</hi> 1684. Page. 61.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>A Prayer of a poor Priſoner for Debt.</head>
+                        <p>O <hi>God who art preſent to us in all places, and haſt re<g ref="char:EOLhyphen"/>gard to the ſighs and groans of the miſerable, who hum<g ref="char:EOLhyphen"/>bly implore thy pity and compaſſion towards them, vouchſafe to look graciouſly upon thy afflicted Servant in this place, which is moſt deſolate and comfortleſs, unleſs the Light of thy Countenance ſhine upon me: I confeſs I have too much abuſed the liberty which I formerly enjoy'd, and did not ſo carefully im<g ref="char:EOLhyphen"/>prove as I ought to have done, thoſe happy opportunities which therewith were put into my hands. Many ways, I am ſenſible I have offended thy Divine Majeſty (here ſaith he acknowledge the particulars of your ſins) for which I am heartily ſorry, and acknowledge my ſelf infinitely indebted to thy goodneſs, that I am not plunged into the depth of miſery, to bewail my ſins in the bottomleſs pit. I thank thee, O Lord, with all my Soul, that I am not ſhut up in the place of outer darkneſs; and that I have any hope to obtain the benefit of the Redemption which is in Chriſt Jeſus; in whoſe Name I beſeech thee to pardon me, and likewiſe to ſanctifie and bleſs theſe ſtraights wherein I lye, to
+<pb n="15" facs="tcp:101293:8"/>the freeing of my Soul from the bond of all Iniquity, and the re<g ref="char:EOLhyphen"/>ſtoring me to the glorious liberty of thy Children; help me ſeri<g ref="char:EOLhyphen"/>ouſly to follow the direction of thy Providence in this reſtraint, and now that I am ſo much alone by my ſelf, to deſcend into my own heart, and to ſearch to try my ways, and unfeignedly to turn to thee my God.</hi>
+                        </p>
+                        <p>
+                           <hi>Enlarge my Spirit more than ever, now that my Body is con<g ref="char:EOLhyphen"/>fin'd, and in fervent Prayer for thy divine Grace, and in chear<g ref="char:EOLhyphen"/>ful Thanksgivings for the innumerable Bleſſings that I have re<g ref="char:EOLhyphen"/>ceived from thy bounty, and in tender pity and commiſeration of the ſad condition of all diſtreſſed People. And be pleaſed to touch the hearts of my Creditors alſo, with a ſenſe of my miſeries; in<g ref="char:EOLhyphen"/>cline them to accept of what I am able to pay, and make me willing conſcientiouſly to ſatisfie them to the utmoſt of my Power.</hi>
+                        </p>
+                        <p>
+                           <hi>In the mean time, beſtow upon me the bleſſing of a contented Spirit, help me patiently to endure the inconveniences of this Place, and preſerve me from the danger of all the Temptations, which I meet with in it eſpecially from ſeeking a remedy of my ſor<g ref="char:EOLhyphen"/>rows in the pleaſures of Intemperance, or evil Company, or any pro<g ref="char:EOLhyphen"/>fane Mirth whatſoever. Be thou my comfort,</hi> O <hi>God, my exceeding Joy, and the full ſatisfaction of my Soul in all Conditions. And when thou art pleaſed to deliver me from this place, and to re<g ref="char:EOLhyphen"/>ſtore me again to my deſired freedom:</hi> O <hi>Lord make me ever mindful of my Vows, wherein I am now forward to bind my ſelf. Diſpoſe my heart then to be ſo ſenſibly affected, with the leaſt of thoſe mercies, which formerly I have little regarded; that I may never forget to praiſe thee, even for the benefit of a ſweeter Air, then now I enjoy; and to acknowledge thee in the night ſeaſon up<g ref="char:EOLhyphen"/>on my Bed, and to thank thee for the courſest food; and eſpecially, I may rejoyce to go again into the great Congregation, to praiſe thee with the moſt ardent love, for all ſpiritual bleſſings in Christ Jeſus.</hi>
+                        </p>
+                        <p>
+                           <hi>Preſerve in me alſo a grateful Remembrance of the kindneſs of my Friends and Neighbours, eſpecially of thoſe Perſons, to whom I ſtand particularly indebted, when by their Charity I ſhall be re<g ref="char:EOLhyphen"/>leas'd. And whatſoever loſs they ſuſtain by my Poverty, Good Lord, make it up abundantly to them and theirs, out of thy rich Grace and Mercy: Requite their Love with Plenty and Proſperity in this World and give them the Reward of eternal Life and Glory in the World to come, through Jeſus Christ.</hi> Amen.</p>
+                     </div>
+                     <div type="prayer">
+                        <pb n="16" facs="tcp:101293:9"/>
+                        <head>The Collect for the third Sunday after <hi>Trinity.</hi>
+                        </head>
+                        <p>
+                           <hi>O Lord we beſeech thee mercifully to hear us, and grant that we, to whom thou haſt given a hearty deſire to Pray, may by thy mighty Aid, be Defended and Comforted in all Dangers and Ad<g ref="char:EOLhyphen"/>verſities, through Jeſus Christ our Lord.</hi> Amen.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>The Lord heareth the Poor, and deſpiſeth not his Priſoners, <bibl>
+                  <hi>Pſal.</hi> 69.33.</bibl>
+            </q>
+            <closer>
+               <salute>Farewel,</salute>
+               <signed>
+                  <hi>I am your aſſured Friend,</hi>
+P. A.</signed>
+            </closer>
+         </div>
+         <div type="addenda">
+            <head>ADDENDA.</head>
+            <p>But where any ones Suffering and Impri<g ref="char:EOLhyphen"/>ſonment is truly for Righteouſneſs ſake, how comfortable muſt needs be a Priſon to them? And I need ſay no more for their Support and Comfort, then to put them in mind of that great aſſurance given them from the mouth of Truth it ſelf, their Lord and Ma<g ref="char:EOLhyphen"/>ſter the Bleſſed Jeſus, and their Judge at the great Day of Doom ſo long before deter<g ref="char:EOLhyphen"/>mining their Caſe, Matth. 5.10. <hi>Bleſſed are they which are perſecuted for Righteouſneſs ſake for theirs is the Kingdom of Heaven.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
